@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si, sonrie Azumi ahora soy tu novio <3')
+    alert('Sabia que ibas a decir que si, sonrie ahora soy tu novio <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
